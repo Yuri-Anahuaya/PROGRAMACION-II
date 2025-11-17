@@ -1,8 +1,5 @@
 class Persona:
-    def __init__():
-        linea = self.linea
-        cant = self.cantidad_ingresos
-    def MiTeleferico ():
-        
-    def AgregarPersonaFila(persona, linea):
-    def AgregarCabina(linea):
+    def __init__(self, nombre, edad, peso):
+        self.nombre = nombre
+        self.edad = edad
+        self.peso = peso
